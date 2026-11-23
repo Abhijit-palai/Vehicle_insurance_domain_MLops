@@ -1,3 +1,9 @@
+MongoDB username :- pabhijit2021_db_user
+password :- PywsgGeApqnFtwI3
+
+mongodb+srv://pabhijit2021_db_user:<db_password>@cluster0.jwcp8sy.mongodb.net/
+
+
 1. Create project template by executing template.py file
 2. Write the code on setup.py and pyproject.toml file to import local packages
    >> Find more about "setup.py and pyproject.toml" at crashcourse.txt
